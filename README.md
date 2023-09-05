@@ -15,3 +15,6 @@ For this part of the assignment you will want to write a program that does the f
 Now that you have a working dictionary of words you will be moving on to build a program that will allow users to search for a single word across all of the files.
 
 Finally add in a feature to allow a user to search for multiple words that exist in the same file. These words do not need to be in order (i.e. the search query 'happy birthday' would trigger a hit on 'happy birthday sad kitten!' as well as 'he was so happy on his birthday')
+
+
+Data hyperlink (too many files to upload): https://cs.nyu.edu/courses/spring23/CSCI-UA.0002-013/assignments/resources/assignment10_data-v2.zip
